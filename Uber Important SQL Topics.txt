@@ -1,0 +1,6 @@
+1) joins
+2) window functions
+3) date time functions
+4) subqueries
+5) CTEs
+6) multi join conditions
